@@ -1,2 +1,5 @@
 hello_cargo/Cargo.toml
 hello_cargo/target/debug/*
+
+guessing_game/Cargo.toml
+guessing_game/target/debug/*
