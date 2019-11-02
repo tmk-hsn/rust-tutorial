@@ -3,3 +3,6 @@ hello_cargo/target/debug/*
 
 guessing_game/Cargo.toml
 guessing_game/target/debug/*
+
+dining_philosophers/Cargo.toml
+dining_philosophers/target/debug/*
