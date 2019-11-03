@@ -6,3 +6,7 @@ guessing_game/target/debug/*
 
 dining_philosophers/Cargo.toml
 dining_philosophers/target/debug/*
+
+embed/Cargo.toml
+embed/target/debug/*
+
